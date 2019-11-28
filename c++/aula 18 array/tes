@@ -1,0 +1,6 @@
+#include <stdio.h>
+void main(){
+int A[] = { 1,0,5,-2,-5,7 };
+int i;
+printf("%d %d %d \n", A[0], A[1], A[5]);
+}
